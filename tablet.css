@@ -1,0 +1,21 @@
+.navBar_content {
+    padding-left: 10px;
+}
+
+.navBar_content ul li a {
+    font-weight: var(--lg);
+    font-size: 13px;
+}
+
+.container {
+    grid-template-columns: 61% 39%;
+}
+
+.footer div img  {
+    width: 120px;
+    bottom: 10px;
+} 
+
+.side-content p {
+    font-size: 26px;
+}
